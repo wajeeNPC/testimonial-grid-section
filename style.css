@@ -17,6 +17,8 @@ main{
     display: flex;
     justify-content: center;
     flex-direction: row;
+    position: relative;
+    left: 100px;
     
 }
 
@@ -263,6 +265,8 @@ h1 {
     justify-content: center;
     flex-direction: column;   
     align-items: center;
+    position: relative;
+    left: 00px;
   }
   body {
     background-color: hsl(0, 0%, 81%);
